@@ -39,7 +39,7 @@ export default function Skills() {
           </div>
           <div className='imgContanier'>
             <span>Java</span>
-            <img src="assets/java.png" alt="java_img" /> 
+            <img src="assets/Java.png" alt="java_img" /> 
           </div>
           <div className='imgContanier'>
             <span>SQL</span>
